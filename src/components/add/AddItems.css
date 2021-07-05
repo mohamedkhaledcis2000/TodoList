@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+form{
+    margin:10px;
+}
+form > input {
+    width: 180px;
+    height: 35px;
+    background-color:#eee;
+    color: #000;
+    margin: 10px 25px ;
+
+    border: 2px solid #aaa;
+    
+}
